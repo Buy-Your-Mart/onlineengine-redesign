@@ -13,6 +13,7 @@ import {
   Coffee,
   MapPin,
   Clock,
+  ArrowUpRight,
 } from "lucide-react";
 import Link from "next/link";
 
