@@ -121,7 +121,7 @@ export default function Home() {
       {/* Hero Section - Maximum Vibrancy */}
       <section
         ref={heroRef}
-        className="relative min-h-[95vh] flex items-center overflow-hidden bg-white pt-[120px] pb-20"
+        className="relative min-h-[95vh] flex items-center overflow-hidden bg-white pt-[150px] pb-20"
       >
         <div className="absolute inset-0 pointer-events-none">
           {/* Extremely Bright Gradient Orbs */}

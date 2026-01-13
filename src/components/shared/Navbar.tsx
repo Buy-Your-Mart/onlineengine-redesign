@@ -78,15 +78,6 @@ export function Navbar() {
               </div>
 
               <div className="hidden lg:flex items-center gap-8">
-                <a
-                  href="tel:+918369697652"
-                  className="flex items-center gap-4 text-sm font-black text-black/50 hover:text-black transition-all group"
-                >
-                  <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-black/5 to-black/10 flex items-center justify-center group-hover:bg-gradient-to-br group-hover:from-[#ff2d2d] group-hover:to-[#ff6b35] group-hover:text-white transition-all shadow-lg group-hover:rotate-12">
-                    <Phone className="w-5 h-5" />
-                  </div>
-                  <span className="tracking-widest">+91 83696 97652</span>
-                </a>
                   <Link
                     href="/contact"
                     className="h-16 px-12 rounded-[2rem] bg-black text-white text-sm font-black flex items-center gap-4 hover:bg-[#ff2d2d] transition-all shadow-[0_20px_40px_rgba(255,45,45,0.2)] hover:shadow-[#ff2d2d]/40 uppercase tracking-widest group border-2 border-transparent hover:scale-105"
